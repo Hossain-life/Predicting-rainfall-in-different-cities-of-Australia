@@ -1,5 +1,4 @@
-# Predicting-rainfall-in-different-cities-of-Australia
-
+# Predicting-rainfall
 My goals is to utilise both analysis and visualisation of the datasets to produce a robust report and model of the impact of the varying weather elements in predicting rainfall.
 
 The datasets include daily readings of:
